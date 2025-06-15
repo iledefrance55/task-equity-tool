@@ -14,34 +14,49 @@ Tous droits réservés.
 
 ## LES TROIS PILIERS FONDAMENTAUX
 
-Cette approche révolutionnaire mesure toute tâche selon **trois indicateurs universels** :
 
-### 1. DOULEUR (échelle 0-10)
-- **0** : Aucune douleur 
-- **1-2** : Légère tension musculaire (ex: nettoyer fenêtres en hauteur)
-- **3-4** : Douleur modérée (ex: désherber à genoux 1h)
-- **5-6** : Douleur notable (ex: pelleter neige lourde)
-- **7-8** : Douleur importante (ex: déplacer électroménagers)
-- **9-10** : Douleur intense/risque blessure (ex: soulever seul un réfrigérateur)
+Cette approche mesure toute tâche selon **trois indicateurs universels** :
 
-### 2. FATIGUE (échelle 0-10)
+
+### 🩹 1. DOULEUR (échelle 0-10)
+
+| Niveau | Description | Exemple |
+|--------|-------------|---------|
+| **0** | Aucune douleur | - |
+| **1-2** | Légère tension musculaire | Nettoyer fenêtres en hauteur |
+| **3-4** | Douleur modérée | Désherber à genoux 1h |
+| **5-6** | Douleur notable | Pelleter neige lourde |
+| **7-8** | Douleur importante | Déplacer électroménagers |
+| **9-10** | Douleur intense/risque blessure | Soulever seul un réfrigérateur |
+
+<br>
+
+### 😴 2. FATIGUE (échelle 0-10)
 *Inclut fatigue physique, mentale, émotionnelle et stress*
-- **0** : Aucune fatigue
-- **1-2** : Légère fatigue (ex: préparer repas simple)
-- **3-4** : Fatigue modérée (ex: lessive complète + étendage)
-- **5-6** : Fatigue notable (ex: gérer crise familiale tout en cuisinant)
-- **7-8** : Épuisement (ex: s'occuper d'enfants malades 12h)
-- **9-10** : Épuisement total (ex: organiser funérailles + gérer famille)
 
-### 3. DÉPENSE CALORIQUE (échelle 0-10)
+| Niveau | Description | Exemple |
+|--------|-------------|---------|
+| **0** | Aucune fatigue | - |
+| **1-2** | Légère fatigue | Préparer repas simple |
+| **3-4** | Fatigue modérée | Lessive complète + étendage |
+| **5-6** | Fatigue notable | Gérer crise familiale tout en cuisinant |
+| **7-8** | Épuisement | S'occuper d'enfants malades 12h |
+| **9-10** | Épuisement total | Organiser funérailles + gérer famille |
+
+<br>
+
+### 🔥 3. DÉPENSE CALORIQUE (échelle 0-10)
 *Basée sur l'effort énergétique total réel, incluant temps rallongé par contraintes*
-- **0** : Très léger (0-50 cal) - ex: plier du linge
-- **1-2** : Léger (50-100 cal) - ex: préparer sandwich  
-- **3-4** : Modéré-léger (100-200 cal) - ex: faire vaisselle
-- **5** : Modéré (200-300 cal) - ex: passer aspirateur
-- **6-7** : Modéré-intense (300-400 cal) - ex: tondre pelouse
-- **8-9** : Intense (400-500 cal) - ex: pelleter neige
-- **10** : Très intense (500+ cal) - ex: déménagement
+
+| Niveau | Calories | Description | Exemple |
+|--------|----------|-------------|---------|
+| **0** | 0-50 cal | Très léger | Plier du linge |
+| **1-2** | 50-100 cal | Léger | Préparer sandwich |
+| **3-4** | 100-200 cal | Modéré-léger | Faire vaisselle |
+| **5** | 200-300 cal | Modéré | Passer aspirateur |
+| **6-7** | 300-400 cal | Modéré-intense | Tondre pelouse |
+| **8-9** | 400-500 cal | Intense | Pelleter neige |
+| **10** | 500+ cal | Très intense | Déménagement |
 
 ---
 
