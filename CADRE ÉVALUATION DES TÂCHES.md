@@ -89,10 +89,10 @@ Cette section évalue les facteurs individuels qui influencent la capacité d'un
 
 Mesure l'impact des conditions médicales physiques sur la capacité d'accomplir des tâches. Ces conditions peuvent affecter l'endurance, la mobilité, la dextérité ou d'autres aspects physiques nécessaires à l'exécution de certaines activités.
 
-**2. Conditions de santé mentale**
-*(dépression, anxiété, TDAH, troubles bipolaires, PTSD, troubles alimentaires, etc.)*
+**2. Conditions de santé mentale et neurologique**
+*(dépression, anxiété, TDAH, troubles bipolaires, PTSD, troubles alimentaires, dyslexie, dyspraxie, etc.)*
 
-Évalue l'influence des conditions de santé mentale sur l'effort requis pour accomplir une tâche. Ces conditions peuvent affecter la concentration, l'énergie, la motivation, la gestion du stress ou la capacité de prise de décision, influençant directement la charge que représente une activité donnée.
+Évalue l'influence des conditions de santé mentale et neurologiques sur l'effort requis pour accomplir une tâche. Ces conditions peuvent affecter la concentration, l'énergie, la motivation, la gestion du stress, la capacité de prise de décision ou l'organisation, influençant directement la charge que représente une activité donnée.
 
 **3. Caractéristiques physiques**
 *(âge, taille, poids, force, mobilité, endurance)*
