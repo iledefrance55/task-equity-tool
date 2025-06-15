@@ -14,9 +14,7 @@ Tous droits réservés.
 
 ## LES TROIS PILIERS FONDAMENTAUX
 
-
 Cette approche mesure toute tâche selon **trois indicateurs universels** :
-
 
 ### 🩹 1. DOULEUR (échelle 0-10)
 
@@ -68,15 +66,15 @@ Cette approche mesure toute tâche selon **trois indicateurs universels** :
 
 • **Dépense énergétique mesurable (calories)** : Mesure de l'énergie physique nécessaire pour accomplir la tâche. Ce calcul peut se faire en estimant les calories brûlées par heure d'activité selon des tables standardisées, ou en utilisant un moniteur cardiaque pour mesurer l'intensité réelle de l'effort. Par exemple, faire 2-3 brassées de lavage avec laveuse-sécheuse au sous-sol (incluant les multiples allers-retours dans les escaliers, le pliage et le rangement des draps pour 2 lits) brûle environ 200-250 calories pour notre personne de référence.
 
-• **Micro-mouvements répétitifs** : Accumulation de petits gestes répétés qui causent fatigue musculaire et usure des articulations. Ces mouvements semblent anodins individuellement, mais leur répétition constante crée une charge physique significative souvent ignorée. Par exemple, éplucher 10 livres de pommes de terre implique des centaines de mouvements de poignet et de doigts qui peuvent causer crampes, douleurs articulaires et fatigue des avant-bras, même chez notre personne de référence.
+• **Micro-mouvements répétitifs** : Accumulation de petits gestes répétés qui causent fatigue musculaire et usure des articulations. Ces mouvements semblent anodins individuellement, mais leur répétition constante crée une charge physique significative souvent ignorée. Par exemple, éplucher 10 livres de pommes de terre implique des centaines de mouvements de poignet et de doigts qui peuvent causer crampes, douleurs articulaires et fatigue des avant-bras.
 
-• **Effort soutenu requis** : Mesure du temps d'effort continu (physique et/ou mental) nécessaire sans pause naturelle intégrée à la tâche. Cet effort soutenu épuise les ressources de la personne car il ne permet pas de récupération progressive pendant l'exécution. Les tâches avec effort soutenu demandent une vigilance, concentration ou activité physique constante. Par exemple, surveiller des enfants en bas âge exige une attention mentale continue pendant des heures, tandis que le travail à la chaîne demande des gestes physiques répétitifs sans interruption, tous deux épuisant différemment mais de façon similaire nos capacités de récupération.
+• **Effort soutenu requis** : Mesure du temps d'effort continu (physique et/ou mental) nécessaire sans pause naturelle intégrée à la tâche. Cet effort soutenu épuise les ressources car il ne permet pas de récupération progressive pendant l'exécution. Les tâches avec effort soutenu demandent une vigilance, concentration ou activité physique constante. Par exemple, surveiller des enfants en bas âge exige une attention mentale continue pendant des heures, tandis que le travail à la chaîne demande des gestes physiques répétitifs sans interruption.
 
 • **Degré d'inconfort physique** : Évaluation des positions contraignantes maintenues pendant l'exécution de la tâche. Les positions contraignantes incluent celles qui forcent le corps dans des configurations non-naturelles (cou en hyperextension, dos courbé sans appui) ou qui compriment la circulation sanguine (agenouillé prolongé, accroupi dans un espace restreint). Par exemple, réparer ou nettoyer sous l'évier oblige à se contorsionner dans un espace minuscule, le dos courbé, la tête coincée contre la tuyauterie, position qu'il faut maintenir longtemps.
 
 • **Ratio temps/interruptions** : Impact des interruptions sur l'effort total requis pour accomplir la tâche. Les interruptions forcent à recommencer mentalement, retrouver le rythme et parfois refaire certaines étapes, multipliant l'effort initial. Une tâche qui devrait prendre 30 minutes peut en exiger 60 si elle est constamment interrompue. Par exemple, préparer un repas complexe tout en répondant aux besoins des enfants transforme une recette de 45 minutes en marathon de 2 heures, avec stress supplémentaire de gérer les priorités concurrentes.
 
-• **Charge mentale** : Planification, coordination et anticipation nécessaires pour accomplir la tâche avec succès. Cette charge cognitive invisible accompagne souvent les tâches physiques et peut être plus épuisante que l'effort physique lui-même. Elle implique de jongler mentalement avec multiples variables, échéanciers et imprévus. Par exemple, organiser la cédule d'activités scolaires et parascolaires des enfants en tenant compte des rendez-vous médicaux et dentaires de toute la famille demande une gymnastique mentale constante : mémoriser les horaires, anticiper les conflits, prévoir les transports, et faire les ajustements lorsque surgissent des imprévus.
+• **Charge mentale** : Planification, coordination et anticipation nécessaires pour accomplir la tâche avec succès. Cette charge cognitive invisible accompagne souvent les tâches physiques et peut être plus épuisante que l'effort physique lui-même. Elle implique de jongler mentalement avec multiples variables, échéanciers et imprévus. Par exemple, organiser les activités scolaires et parascolaires des enfants en tenant compte des rendez-vous médicaux et dentaires de toute la famille demande une gymnastique mentale constante : mémoriser les horaires, anticiper les conflits, prévoir les transports, et faire les ajustements lors d'imprévus.
 
 ---
 
