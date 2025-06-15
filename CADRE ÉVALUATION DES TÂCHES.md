@@ -4,11 +4,11 @@ Tous droits réservés.
 
 # CADRE D'ÉVALUATION OBJECTIVE DE LA DIFFICULTÉ DES TÂCHES
 
-**Outil pratique pour mesurer objectivement la réelle difficulté de diverses tâches courantes, comme des tâches quotidiennes et domestiques** - faire le ménage, préparer les repas, s'occuper des enfants ou faire un potager. **Cette méthode se base sur des critères mesurables plutôt que sur des opinions ou des idées reçues.** Elle permet d'éviter que certains types de travaux soient automatiquement considérés comme "faciles" ou "naturels" alors qu'ils demandent parfois un effort considérable.
+**Outil pratique pour mesurer objectivement la réelle difficulté de diverses tâches courantes** - faire le ménage, préparer les repas, s'occuper des enfants ou faire un potager. **Cette méthode se base sur des critères mesurables plutôt que sur des opinions ou des idées reçues.** Elle permet d'éviter que certains types de travaux soient automatiquement considérés comme "faciles" ou "naturels" alors qu'ils demandent parfois un effort considérable.
 
-**L'objectif est de créer un système novateur et original d'évaluation des tâches, basé sur le principe du "handicap" (similaire à celui du golf), où une même tâche peut recevoir une évaluation différente selon le contexte et la personne qui l'accomplit.**
+**L'objectif est de créer un système novateur et original d'évaluation des tâches basé sur le principe du "handicap" (similaire à celui du golf), où une même tâche peut recevoir une évaluation différente selon le contexte et la personne qui l'accomplit.**
 
-**Pour mesurer cette difficulté, l'outil s'appuie sur quatre types de critères d'évaluation qui, selon les circonstances, peuvent s'additionner : liés à l'effort physique, liés aux caractéristiques personnelles, facteurs environnementaux et contextuels, dont vous trouverez le détail ci-après.**
+**Pour mesurer cette difficulté, l'outil s'appuie sur quatre types de critères d'évaluation qui peuvent s'additionner selon les circonstances : effort physique, caractéristiques personnelles, facteurs environnementaux et contextuels.**
 
 ---
 
