@@ -317,6 +317,7 @@ RECOMMANDATIONS :
 
 > **⚠️ RECOMMANDATION :** Scores élevés - diviser en plusieurs étapes, demander assistance, prévoir récupération prolongée.
 
+
 ### Exemple 2 : Éducatrice en CPE
 
 > **👤 PROFIL :** Femme 33 ans, douleurs dos, mère monoparentale 2 enfants, fumeuse
@@ -340,6 +341,7 @@ RECOMMANDATIONS :
 | 🔥 **Calories** | 1.1 | +3.0 | **4.1/10** |
 
 > **⚠️ RECOMMANDATION :** Fatigue critique - pause obligatoire, soutien collègues, rotation des responsabilités.
+
 
 ### Exemple 3 : Homme amputé
 **Personne** : Homme 66 ans, amputation bras gauche, bonne santé
