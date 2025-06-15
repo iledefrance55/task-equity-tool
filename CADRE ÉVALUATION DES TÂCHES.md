@@ -181,34 +181,36 @@ Toutes les autres dimensions - charge mentale, compétences, stress physiologiqu
 
 ---
 
-### Phase 2 : Évaluation du profil personnel
+### 👤 Phase 2 : Évaluation du profil personnel
+
 **Le spécialiste/IA collecte** les informations sur les caractéristiques individuelles via questionnaire structuré :
 
-**Questions type pour chaque catégorie :**
+#### 🏥 Santé physique
+- **Avez-vous des conditions médicales diagnostiquées ?**
+- **Prenez-vous des médicaments qui affectent votre énergie/mobilité ?**
+- **Ressentez-vous des douleurs chroniques ?**
 
-**Santé physique :**
-- "Avez-vous des conditions médicales diagnostiquées ?"
-- "Prenez-vous des médicaments qui affectent votre énergie/mobilité ?"
-- "Ressentez-vous des douleurs chroniques ?"
+#### 🧠 Santé mentale et neurologique
+- **Avez-vous reçu un diagnostic d'anxiété, dépression ou autre condition ?**
+- **Avez-vous reçu un diagnostic de dyslexie, TDAH, dyspraxie ou autre difficulté d'apprentissage ?**
+- **Ces conditions affectent-elles votre niveau d'énergie mental ou votre capacité d'organisation ?**
 
-**Santé mentale :**
-- "Suivez-vous un traitement pour anxiété, dépression ou autre condition ?"
-- "Votre niveau d'énergie mental est-il affecté par votre état de santé ?"
+#### 💪 Caractéristiques physiques
+- **Données objectives :** Âge, taille, poids
+- **Auto-évaluation :** Évaluez votre force/endurance sur une échelle de 1 à 10
 
-**Caractéristiques physiques :**
-- Âge, taille, poids (données objectives)
-- "Évaluez votre force/endurance sur une échelle de 1 à 10"
+#### ♿ Handicaps et limitations physiques
+- **Avez-vous des limitations physiques permanentes ou temporaires ?**
+- **Utilisez-vous des aides techniques ?**
+- **Avez-vous des blessures récentes ou en cours de guérison ?**
 
-**Handicaps et limitations physiques :**
-- "Avez-vous des limitations physiques permanentes ou temporaires ?"
-- "Utilisez-vous des aides techniques ?"
-- "Avez-vous des blessures récentes ou en cours de guérison ?"
+#### 🎯 Expérience
+- **Depuis combien de temps pratiquez-vous ce type de tâche ?**
+- **Vous considérez-vous novice, intermédiaire ou expert ?**
 
-**Expérience :**
-- "Depuis combien de temps pratiquez-vous ce type de tâche ?"
-- "Vous considérez-vous novice, intermédiaire ou expert ?"
+> **📊 Le système attribue automatiquement** les scores de 0 à 0.5 selon les réponses et calcule le **handicap de base**.
 
-**Le système attribue automatiquement** les scores de 0 à 0.5 selon les réponses et calcule le **handicap de base**.
+---
 
 ### Phase 3 : Analyse des facteurs spécifiques à la tâche
 **Le spécialiste/IA évalue** chaque catégorie de facteurs en déterminant leur impact sur les 3 piliers :
