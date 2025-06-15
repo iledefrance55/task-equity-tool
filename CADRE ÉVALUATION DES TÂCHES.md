@@ -239,39 +239,48 @@ Toutes les autres dimensions - charge mentale, compétences, stress physiologiqu
 
 ---
 
-### Phase 3 bis : Évaluation temporelle
-**Questions IA supplémentaires** :
-- "Combien de temps cette tâche prendra-t-elle dans ces conditions spécifiques ?"
-- "Y aura-t-il des interruptions prévues ?" (enfants, téléphone, etc.)
-- "Les outils/conditions rallongeront-ils le travail ?"
+### ⏱️ Phase 3 bis : Évaluation temporelle
 
-**Calcul automatique** :
+**Questions IA supplémentaires :**
+- **Combien de temps cette tâche prendra-t-elle dans ces conditions spécifiques ?**
+- **Y aura-t-il des interruptions prévues ?** (enfants, téléphone, etc.)
+- **Les outils/conditions rallongeront-ils le travail ?**
+
+#### 📊 Calcul automatique
 1. **Temps de base** (tâche en conditions normales)
-2. **Multiplicateurs** :
-   - Interruptions : x1.5 à x3
-   - Outils inadéquats : x1.3 à x2  
-   - Contraintes environnementales : x1.2 à x2
-   - Handicaps personnels : x1.2 à x2
+2. **Multiplicateurs :**
+   - Interruptions : ×1.5 à ×3
+   - Outils inadéquats : ×1.3 à ×2  
+   - Contraintes environnementales : ×1.2 à ×2
+   - Handicaps personnels : ×1.2 à ×2
 3. **Temps réel estimé** = base × multiplicateurs
 4. **Calories finales** = calories/heure × temps réel
 
-### Phase 4 : Calcul automatisé et interprétation
+---
+
+### 🤖 Phase 4 : Calcul automatisé et interprétation
+
 **Le système IA :**
 1. **Additionne** handicap de base + impact tâche pour chaque pilier
 2. **Génère** les trois scores finaux (Douleur, Fatigue, Calories)
 3. **Produit** un rapport avec recommandations
 
-**Exemple de rapport automatisé :**
+#### 📋 Exemple de rapport automatisé
+
 ```
 ÉVALUATION : Vider 3 bacs de compostage
 PERSONNE : Femme, 70 ans, problème genou, terrain 5 acres
 HANDICAP DE BASE : Douleur/Fatigue 2.6, Calories 2.8
 IMPACT TÂCHE : Douleur 5.0, Fatigue 6.0, Calories 4.0
 SCORES FINAUX : Douleur 7.6/10, Fatigue 8.6/10, Calories 6.8/10
+
 RECOMMANDATIONS : 
 - Diviser en plusieurs étapes
 - Assistance recommandée
 - Prévoir récupération prolongée
+```
+
+---
 ```
 
 ### Phase 5 : Recommandations contextualisées
