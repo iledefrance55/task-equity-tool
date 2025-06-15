@@ -212,29 +212,32 @@ Toutes les autres dimensions - charge mentale, compétences, stress physiologiqu
 
 ---
 
-### Phase 3 : Analyse des facteurs spécifiques à la tâche
+### ⚙️ Phase 3 : Analyse des facteurs spécifiques à la tâche
+
 **Le spécialiste/IA évalue** chaque catégorie de facteurs en déterminant leur impact sur les 3 piliers :
 
-**Effort physique - Questions d'évaluation :**
-- "Cette tâche nécessite-t-elle un effort cardiovasculaire soutenu ?"
-- "Y a-t-il des mouvements répétitifs à effectuer ?"
-- "La tâche exige-t-elle de maintenir des positions inconfortables ?"
-- "La personne sera-t-elle interrompue pendant l'exécution ?"
-- "Quel niveau de planification/coordination cette tâche demande-t-elle ?"
+#### 💪 Effort physique - Questions d'évaluation
+- **Cette tâche nécessite-t-elle un effort cardiovasculaire soutenu ?**
+- **Y a-t-il des mouvements répétitifs à effectuer ?**
+- **La tâche exige-t-elle de maintenir des positions inconfortables ?**
+- **La personne sera-t-elle interrompue pendant l'exécution ?**
+- **Quel niveau de planification/coordination cette tâche demande-t-elle ?**
 
-**Facteurs environnementaux - Observations :**
-- Conditions météorologiques du moment
-- État du terrain/espace de travail
-- Qualité et adaptation des outils disponibles
-- Présence d'infrastructures (eau, électricité, surfaces)
-- Obligations vestimentaires particulières
+#### 🌍 Facteurs environnementaux - Observations
+- **Conditions météorologiques** du moment
+- **État du terrain/espace** de travail
+- **Qualité et adaptation** des outils disponibles
+- **Présence d'infrastructures** (eau, électricité, surfaces)
+- **Obligations vestimentaires** particulières
 
-**Facteurs contextuels - Évaluation :**
-- Niveau de risque associé à la tâche
-- Gravité des conséquences en cas d'erreur
-- Disponibilité d'aide en cas de besoin
-- Reconnaissance sociale de cette tâche
-- Contraintes temporelles imposées
+#### 📋 Facteurs contextuels - Évaluation
+- **Niveau de risque** associé à la tâche
+- **Gravité des conséquences** en cas d'erreur
+- **Disponibilité d'aide** en cas de besoin
+- **Reconnaissance sociale** de cette tâche
+- **Contraintes temporelles** imposées
+
+---
 
 ### Phase 3 bis : Évaluation temporelle
 **Questions IA supplémentaires** :
