@@ -318,21 +318,28 @@ RECOMMANDATIONS :
 > **⚠️ RECOMMANDATION :** Scores élevés - diviser en plusieurs étapes, demander assistance, prévoir récupération prolongée.
 
 ### Exemple 2 : Éducatrice en CPE
-**Personne** : Femme 33 ans, douleurs dos, mère monoparentale 2 enfants, fumeuse
 
-**Handicap de base calculé** :
-- **Douleur/Fatigue** : 0.9
-  - Âge 33 ans : 0
-  - Douleurs dos : +0.3
-  - Mère monoparentale : +0.4
-  - Fumeuse : +0.2
+> **👤 PROFIL :** Femme 33 ans, douleurs dos, mère monoparentale 2 enfants, fumeuse
 
-- **Calories** : 1.1 (même calcul + sexe femme : +0.2)
+#### 📊 Handicap de base calculé
 
-**Tâche évaluée** : Gérer crise enfant + surveiller 9 autres (2-3 ans)
-- Douleur : 0.9 + 3.0 = **3.9/10**
-- Fatigue : 0.9 + 10.0 = **9.9/10**
-- Calories : 1.1 + 3.0 = **4.1/10**
+**Douleur/Fatigue** : 0.9
+- Âge 33 ans : 0
+- Douleurs dos : +0.3
+- Mère monoparentale : +0.4
+- Fumeuse : +0.2
+
+**Calories** : 1.1 (même calcul + sexe femme : +0.2)
+
+#### 🎯 Tâche évaluée : Gérer crise enfant + surveiller 9 autres (2-3 ans)
+
+| Pilier | Handicap de base | Impact tâche | **Score final** |
+|--------|------------------|--------------|-----------------|
+| 🩹 **Douleur** | 0.9 | +3.0 | **3.9/10** |
+| 😴 **Fatigue** | 0.9 | +10.0 | **9.9/10** |
+| 🔥 **Calories** | 1.1 | +3.0 | **4.1/10** |
+
+> **⚠️ RECOMMANDATION :** Fatigue critique - pause obligatoire, soutien collègues, rotation des responsabilités.
 
 ### Exemple 3 : Homme amputé
 **Personne** : Homme 66 ans, amputation bras gauche, bonne santé
