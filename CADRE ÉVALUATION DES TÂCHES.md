@@ -283,27 +283,34 @@ RECOMMANDATIONS :
 ---
 ```
 
-### Phase 5 : Recommandations contextualisées
+### 💡 Phase 5 : Recommandations contextualisées
+
 **Le spécialiste/IA formule** des suggestions basées sur les scores :
 
-**Scores élevés (7-10)** : Délégation ou adaptation majeure recommandée
-**Scores modérés (4-6)** : Planification et précautions nécessaires
-**Scores faibles (1-3)** : Tâche gérable avec planification normale
+| Scores | Niveau | Recommandations |
+|--------|--------|-----------------|
+| **7-10** | 🔴 **Élevé** | Délégation ou adaptation majeure recommandée |
+| **4-6** | 🟡 **Modéré** | Planification et précautions nécessaires |
+| **1-3** | 🟢 **Faible** | Tâche gérable avec planification normale |
 
-### Applications technologiques
+---
 
-**Pour IA/Applications :**
-- Base de données de tâches pré-évaluées
-- Algorithmes d'adaptation selon profil utilisateur
-- Interface de questions guidées
-- Calculs automatisés en temps réel
-- Rapports personnalisés avec recommandations
+### 💻 Applications technologiques
 
-**Pour spécialistes :**
-- Protocole d'entrevue standardisé
-- Grilles d'évaluation structurées
-- Outils de calcul assisté
-- Rapports professionnels normalisés
+#### 🤖 Pour IA/Applications
+- **Base de données** de tâches pré-évaluées
+- **Algorithmes d'adaptation** selon profil utilisateur
+- **Interface** de questions guidées
+- **Calculs automatisés** en temps réel
+- **Rapports personnalisés** avec recommandations
+
+#### 👨‍⚕️ Pour spécialistes
+- **Protocole d'entrevue** standardisé
+- **Grilles d'évaluation** structurées
+- **Outils de calcul** assisté
+- **Rapports professionnels** normalisés
+
+---
 
 ---
 
