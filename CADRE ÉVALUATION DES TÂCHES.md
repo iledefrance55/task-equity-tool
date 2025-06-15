@@ -282,6 +282,8 @@ Toutes les autres dimensions - charge mentale, compétences, stress physiologiqu
 - Assistance recommandée
 - Prévoir récupération prolongée
 
+---
+
 ### 💡 Phase 5 : Recommandations contextualisées
 
 **Le spécialiste/IA formule** des suggestions basées sur les scores :
