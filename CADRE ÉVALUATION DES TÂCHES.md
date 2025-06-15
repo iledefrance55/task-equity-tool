@@ -344,18 +344,26 @@ RECOMMANDATIONS :
 
 
 ### Exemple 3 : Homme amputé
-**Personne** : Homme 66 ans, amputation bras gauche, bonne santé
 
-**Handicap de base calculé** : 0.9 (tous les piliers - pas d'impact sexe pour homme)
+> **👤 PROFIL :** Homme 66 ans, amputation bras gauche, bonne santé
+
+#### 📊 Handicap de base calculé
+
+**Tous les piliers** : 0.9
 - Âge 66 ans : +0.4
 - Sexe homme : 0 (aucun impact métabolique significatif)
 - Amputation bras gauche : +0.5
 - Bonne santé : 0
 
-**Tâche évaluée** : Faire son ménage complet
-- Douleur : 0.9 + 3.0 = **3.9/10**
-- Fatigue : 0.9 + 6.0 = **6.9/10**
-- Calories : 0.9 + 4.0 = **4.9/10**
+#### 🎯 Tâche évaluée : Faire son ménage complet
+
+| Pilier | Handicap de base | Impact tâche | **Score final** |
+|--------|------------------|--------------|-----------------|
+| 🩹 **Douleur** | 0.9 | +3.0 | **3.9/10** |
+| 😴 **Fatigue** | 0.9 | +6.0 | **6.9/10** |
+| 🔥 **Calories** | 0.9 | +4.0 | **4.9/10** |
+
+> **💡 RECOMMANDATION :** Scores modérés - planification nécessaire, adapter les outils, prendre pauses régulières.
 
 ---
 
