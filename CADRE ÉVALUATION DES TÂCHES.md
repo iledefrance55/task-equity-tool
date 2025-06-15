@@ -145,7 +145,7 @@ Toutes les autres dimensions - charge mentale, compétences, stress physiologiqu
 
 ## MÉTHODOLOGIE D'APPLICATION
 
-### Principe révolutionnaire
+### Principe innovateur
 **Chaque facteur d'évaluation se traduit directement par son impact sur les trois piliers fondamentaux :**
 - Impact sur la DOULEUR (0-10)
 - Impact sur la FATIGUE (0-10) 
