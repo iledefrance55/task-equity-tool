@@ -290,25 +290,32 @@ RECOMMANDATIONS :
 ## EXEMPLES D'APPLICATION
 
 ### Exemple 1 : Vermicompostage
-**Personne** : Femme de 70 ans avec problème de genou, vivant en autonomie dans une maison à 15-16°C, gestion d'un terrain de 5 acres.
 
-**Handicap de base calculé** :
-- **Douleur/Fatigue** : 2.6
-  - Âge (70 ans) : +0.5
-  - Problème de genou : +0.4
-  - Maison à 15-16°C : +0.3
-  - Grand terrain isolé : +0.3
-  - Absence d'équipements modernes : +0.3
-  - Autosuffisance complète : +0.4
-  - Responsabilités animales : +0.2
-  - Travail supplémentaire : +0.2
+> **👤 PROFIL :** Femme de 70 ans avec problème de genou, vivant en autonomie dans une maison à 15-16°C, gestion d'un terrain de 5 acres.
 
-- **Calories** : 2.8 (même calcul + sexe femme : +0.2)
+#### 📊 Handicap de base calculé
 
-**Tâche évaluée** : Vider 3 bacs de compostage (25kg chacun)
-- Douleur : 2.6 + 5.0 = **7.6/10**
-- Fatigue : 2.6 + 6.0 = **8.6/10**
-- Calories : 2.8 + 4.0 = **6.8/10**
+**Douleur/Fatigue** : 2.6
+- Âge (70 ans) : +0.5
+- Problème de genou : +0.4
+- Maison à 15-16°C : +0.3
+- Grand terrain isolé : +0.3
+- Absence d'équipements modernes : +0.3
+- Autosuffisance complète : +0.4
+- Responsabilités animales : +0.2
+- Travail supplémentaire : +0.2
+
+**Calories** : 2.8 (même calcul + sexe femme : +0.2)
+
+#### 🎯 Tâche évaluée : Vider 3 bacs de compostage (25kg chacun)
+
+| Pilier | Handicap de base | Impact tâche | **Score final** |
+|--------|------------------|--------------|-----------------|
+| 🩹 **Douleur** | 2.6 | +5.0 | **7.6/10** |
+| 😴 **Fatigue** | 2.6 | +6.0 | **8.6/10** |
+| 🔥 **Calories** | 2.8 | +4.0 | **6.8/10** |
+
+> **⚠️ RECOMMANDATION :** Scores élevés - diviser en plusieurs étapes, demander assistance, prévoir récupération prolongée.
 
 ### Exemple 2 : Éducatrice en CPE
 **Personne** : Femme 33 ans, douleurs dos, mère monoparentale 2 enfants, fumeuse
