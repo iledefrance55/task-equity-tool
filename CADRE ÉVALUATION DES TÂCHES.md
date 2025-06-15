@@ -166,14 +166,20 @@ Toutes les autres dimensions - charge mentale, compétences, stress physiologiqu
 
 ## PROTOCOLE D'ÉVALUATION POUR SPÉCIALISTES ET SYSTÈMES IA
 
-### Phase 1 : Définition de la tâche
-**Le spécialiste/IA identifie** la tâche spécifique à évaluer en posant des questions précises :
-- "Décrivez exactement la tâche à accomplir"
-- "Dans quelles conditions cette tâche sera-t-elle effectuée ?" (moment, lieu, contexte)
-- "Quels équipements/outils seront disponibles ?"
-- "Y a-t-il des contraintes particulières ?"
+### 📝 Phase 1 : Définition de la tâche
 
-**Exemple de définition précise :** "Préparer le souper pour 4 personnes un mardi soir, cuisine équipée, ingrédients disponibles, enfants présents"
+**Le spécialiste/IA identifie** la tâche spécifique à évaluer en posant des questions précises :
+
+#### Questions clés à poser :
+- **Décrivez exactement la tâche à accomplir**
+- **Dans quelles conditions cette tâche sera-t-elle effectuée ?** (moment, lieu, contexte)
+- **Quels équipements/outils seront disponibles ?**
+- **Y a-t-il des contraintes particulières ?**
+
+#### ✅ Exemple de définition précise :
+> **"Préparer le souper pour 4 personnes un mardi soir, cuisine équipée, ingrédients disponibles, enfants présents, une personne allergique aux arachides"**
+
+---
 
 ### Phase 2 : Évaluation du profil personnel
 **Le spécialiste/IA collecte** les informations sur les caractéristiques individuelles via questionnaire structuré :
