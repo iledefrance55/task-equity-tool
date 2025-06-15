@@ -267,14 +267,17 @@ Toutes les autres dimensions - charge mentale, compétences, stress physiologiqu
 
 #### 📋 Exemple de rapport automatisé
 
-```
-ÉVALUATION : Vider 3 bacs de compostage
-PERSONNE : Femme, 70 ans, problème genou, terrain 5 acres
-HANDICAP DE BASE : Douleur/Fatigue 2.6, Calories 2.8
-IMPACT TÂCHE : Douleur 5.0, Fatigue 6.0, Calories 4.0
-SCORES FINAUX : Douleur 7.6/10, Fatigue 8.6/10, Calories 6.8/10
+**ÉVALUATION :** Vider 3 bacs de compostage
 
-RECOMMANDATIONS : 
+**PERSONNE :** Femme, 70 ans, problème genou, terrain 5 acres
+
+**HANDICAP DE BASE :** Douleur/Fatigue 2.6, Calories 2.8
+
+**IMPACT TÂCHE :** Douleur 5.0, Fatigue 6.0, Calories 4.0
+
+**SCORES FINAUX :** Douleur 7.6/10, Fatigue 8.6/10, Calories 6.8/10
+
+**RECOMMANDATIONS :**
 - Diviser en plusieurs étapes
 - Assistance recommandée
 - Prévoir récupération prolongée
