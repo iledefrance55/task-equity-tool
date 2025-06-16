@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td><img src="./tet-logo.jpg" width="300"></td>
+<td><img src="./tet-logo.jpg" width="200"></td>
 <td><h1>EXECUTIVE SUMMARY: Task Equity Tool™</h1></td>
 </tr>
 </table>
