@@ -32,7 +32,7 @@ Our analysis identifies a $50B+ global market hungry for objective task measurem
 
 ## Documentation
 
-📄 **[Read the complete Executive Summary]([./Executive_Summary_TET_Tool.md](https://github.com/iledefrance55/task-equity-tool/blob/main/EXECUTIVE%20SUMMARY.md))** for full methodology, market analysis, and implementation roadmap.
+📄 **[Read the complete Executive Summary](https://github.com/iledefrance55/task-equity-tool/blob/main/EXECUTIVE%20SUMMARY.md)** for full methodology, market analysis, and implementation roadmap.
 
 ---
 
