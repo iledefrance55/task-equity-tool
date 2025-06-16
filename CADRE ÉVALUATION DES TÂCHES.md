@@ -2,6 +2,10 @@
 Méthodologie originale basée sur le principe du handicap au golf.
 Tous droits réservés.
 
+<div align="center">
+<img src="./tet-logo.jpg" width="200">
+</div>
+
 # CADRE D'ÉVALUATION OBJECTIVE DE LA DIFFICULTÉ DES TÂCHES
 
 **Outil pratique pour mesurer objectivement la réelle difficulté de diverses tâches courantes** - faire le ménage, préparer les repas, s'occuper des enfants ou faire un potager. **Cette méthode se base sur des critères mesurables plutôt que sur des opinions ou des idées reçues.** Elle permet d'éviter que certains types de travaux soient automatiquement considérés comme "faciles" ou "naturels" alors qu'ils demandent parfois un effort considérable.
