@@ -3,7 +3,7 @@ Méthodologie originale basée sur le principe du handicap au golf.
 Tous droits réservés.
 
 <div align="center">
-<img src="./tet-logo.jpg" width="200">
+<img src="./tet-logo.jpg" width="300">
 </div>
 
 # CADRE D'ÉVALUATION OBJECTIVE DE LA DIFFICULTÉ DES TÂCHES
