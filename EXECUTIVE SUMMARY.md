@@ -1,6 +1,7 @@
 <div align="center">
 <img src="./tet-logo.jpg" width="200">
 </div>
+
 ## EXECUTIVE SUMMARY
 ## Task Equity Tool™: Objective Evaluation System for Real Task Difficulty
 
