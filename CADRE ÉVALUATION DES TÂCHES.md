@@ -1,7 +1,3 @@
-© France Lamontagne, Mai 2025. Cadre d'évaluation objective de la difficulté des tâches.
-Méthodologie originale basée sur le principe du handicap au golf.
-Tous droits réservés.
-
 <div align="center">
 <img src="./tet-logo.jpg" width="500">
 </div>
@@ -407,3 +403,7 @@ Cette méthode d'évaluation permet de :
 Cette approche contribue à valoriser l'ensemble des travaux nécessaires à la vie quotidienne, sans reproduire les hiérarchies traditionnelles basées sur le genre, la visibilité sociale ou d'autres facteurs culturellement biaisés.
 
 **Note pour développeurs** : Cet outil peut être enrichi par l'ajout d'échelles validées comme le PSS (Perceived Stress Scale) pour la mesure du stress, moyennant l'acquisition des licences appropriées.
+
+© France Lamontagne, Mai 2025. Cadre d'évaluation objective de la difficulté des tâches.
+Méthodologie originale basée sur le principe du handicap au golf.
+Tous droits réservés.
