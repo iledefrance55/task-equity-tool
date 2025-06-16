@@ -1,3 +1,6 @@
+<div align="center">
+<img src="./tet-logo.jpg" width="500">
+</div>
 # TET - Task Equity Tool™
 
 *Revolutionary objective measurement of task difficulty*
