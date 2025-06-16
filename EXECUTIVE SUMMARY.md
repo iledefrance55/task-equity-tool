@@ -1,5 +1,7 @@
-| <img src="./tet-logo.jpg" width="200"> | ## EXECUTIVE SUMMARY: Task Equity Tool™ |
-|---|---|
+<div style="display: flex; align-items: center;">
+<img src="./tet-logo.jpg" width="100" style="margin-right: 20px;">
+<h1 style="font-size: 24px;">EXECUTIVE SUMMARY: Task Equity Tool™</h1>
+</div>
 
 ### The $2 Trillion Hidden Problem
 
