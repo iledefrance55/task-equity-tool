@@ -1,8 +1,7 @@
 
-<div align="left">
+## <div align="left">
 <img src="./tet-logo.jpg" width="200">
-</div>
-## EXECUTIVE SUMMARY- Task Equity Tool™: Objective Evaluation System for Real Task Difficulty
+</div> EXECUTIVE SUMMARY- Task Equity Tool™: Objective Evaluation System for Real Task Difficulty
 
 ### The $2 Trillion Hidden Problem
 
