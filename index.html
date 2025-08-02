@@ -29,22 +29,24 @@
         }
 
         .header {
-            display: flex;
-            align-items: center;
+            text-align: center;
             margin-bottom: 3rem;
             padding-bottom: 2rem;
             border-bottom: 2px solid #e9ecef;
         }
 
         .logo {
-            width: 100px;
-            height: 100px;
-            margin-right: 2rem;
+            width: 200px;
+            height: 200px;
+            margin-bottom: 1.5rem;
             border-radius: 8px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
         }
 
         .title {
-            flex: 1;
+            text-align: center;
         }
 
         .title h1 {
@@ -229,18 +231,15 @@
 
         .coming-soon {
             display: inline-block;
-            background-color: #3498db;
+            background-color: #6c757d;
             color: white;
             padding: 12px 24px;
             border-radius: 6px;
             text-decoration: none;
             font-weight: 600;
             font-size: 1rem;
-            transition: background-color 0.3s ease;
-        }
-
-        .coming-soon:hover {
-            background-color: #2980b9;
+            cursor: default;
+            opacity: 0.8;
         }
 
         .footer {
@@ -252,16 +251,6 @@
         }
 
         @media (max-width: 768px) {
-            .header {
-                flex-direction: column;
-                text-align: center;
-            }
-
-            .logo {
-                margin-right: 0;
-                margin-bottom: 1rem;
-            }
-
             .title h1 {
                 font-size: 2rem;
             }
@@ -272,6 +261,11 @@
 
             .intro-section, .pillars-section, .access-section {
                 padding: 1.5rem;
+            }
+
+            .logo {
+                width: 150px;
+                height: 150px;
             }
         }
     </style>
@@ -376,7 +370,7 @@
         <div class="access-section">
             <h3>Get Started</h3>
             <p>The Task Equity Tool calculator is currently in development. When available, it will offer both free access for individual use and professional versions for organizations.</p>
-            <a href="#" class="coming-soon">Notify Me When Available</a>
+            <span class="coming-soon">Calculator Coming Soon</span>
         </div>
 
         <div class="footer">
