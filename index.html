@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task Equity Tool - Objective Task Assessment</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Arial', 'Helvetica', sans-serif;
+            line-height: 1.7;
+            color: #2c3e50;
+            background-color: #f8f9fa;
+            font-size: 16px;
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 2rem;
+            background: white;
+            min-height: 100vh;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 3rem;
+            padding-bottom: 2rem;
+            border-bottom: 2px solid #e9ecef;
+        }
+
+        .logo {
+            width: 100px;
+            height: 100px;
+            margin-right: 2rem;
+            border-radius: 8px;
+        }
+
+        .title {
+            flex: 1;
+        }
+
+        .title h1 {
+            font-size: 2.5rem;
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 0.5rem;
+        }
+
+        .subtitle {
+            font-size: 1.2rem;
+            color: #6c757d;
+            font-weight: 400;
+        }
+
+        .intro-section {
+            background-color: #e8f4f8;
+            padding: 2.5rem;
+            border-radius: 8px;
+            margin-bottom: 3rem;
+            border-left: 4px solid #3498db;
+        }
+
+        .intro-section h2 {
+            font-size: 1.8rem;
+            color: #2c3e50;
+            margin-bottom: 1rem;
+            font-weight: 600;
+        }
+
+        .intro-section p {
+            font-size: 1.1rem;
+            color: #34495e;
+            margin-bottom: 1rem;
+        }
+
+        .purpose-section {
+            margin-bottom: 3rem;
+        }
+
+        .purpose-section h3 {
+            font-size: 1.6rem;
+            color: #2c3e50;
+            margin-bottom: 1.5rem;
+            text-align: center;
+            font-weight: 600;
+        }
+
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 2rem;
+            margin-bottom: 3rem;
+        }
+
+        .feature-card {
+            background: #ffffff;
+            padding: 2rem;
+            border-radius: 8px;
+            border: 1px solid #dee2e6;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+
+        .feature-card h4 {
+            font-size: 1.3rem;
+            color: #2c3e50;
+            margin-bottom: 1rem;
+            font-weight: 600;
+        }
+
+        .feature-card p {
+            color: #555;
+            line-height: 1.6;
+        }
+
+        .pillars-section {
+            background-color: #f8f9fa;
+            padding: 2.5rem;
+            border-radius: 8px;
+            margin-bottom: 3rem;
+        }
+
+        .pillars-section h3 {
+            font-size: 1.6rem;
+            color: #2c3e50;
+            margin-bottom: 2rem;
+            text-align: center;
+            font-weight: 600;
+        }
+
+        .pillars-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 2rem;
+        }
+
+        .pillar-card {
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            border: 1px solid #dee2e6;
+            text-align: center;
+        }
+
+        .pillar-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            display: block;
+        }
+
+        .pillar-card h4 {
+            font-size: 1.2rem;
+            color: #2c3e50;
+            margin-bottom: 0.5rem;
+            font-weight: 600;
+        }
+
+        .pillar-description {
+            color: #555;
+            font-size: 0.95rem;
+        }
+
+        .applications-section {
+            margin-bottom: 3rem;
+        }
+
+        .applications-section h3 {
+            font-size: 1.6rem;
+            color: #2c3e50;
+            margin-bottom: 1.5rem;
+            text-align: center;
+            font-weight: 600;
+        }
+
+        .applications-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .application-item {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 8px;
+            border: 1px solid #dee2e6;
+            text-align: center;
+        }
+
+        .application-item h4 {
+            color: #2c3e50;
+            margin-bottom: 0.5rem;
+            font-size: 1.1rem;
+            font-weight: 600;
+        }
+
+        .application-item p {
+            color: #666;
+            font-size: 0.9rem;
+        }
+
+        .access-section {
+            background-color: #e8f5e8;
+            padding: 2.5rem;
+            border-radius: 8px;
+            text-align: center;
+            margin-bottom: 2rem;
+            border-left: 4px solid #27ae60;
+        }
+
+        .access-section h3 {
+            font-size: 1.6rem;
+            color: #2c3e50;
+            margin-bottom: 1rem;
+            font-weight: 600;
+        }
+
+        .access-section p {
+            font-size: 1.1rem;
+            color: #34495e;
+            margin-bottom: 1.5rem;
+        }
+
+        .coming-soon {
+            display: inline-block;
+            background-color: #3498db;
+            color: white;
+            padding: 12px 24px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1rem;
+            transition: background-color 0.3s ease;
+        }
+
+        .coming-soon:hover {
+            background-color: #2980b9;
+        }
+
+        .footer {
+            text-align: center;
+            padding: 2rem 0;
+            border-top: 1px solid #dee2e6;
+            color: #6c757d;
+            font-size: 0.9rem;
+        }
+
+        @media (max-width: 768px) {
+            .header {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .logo {
+                margin-right: 0;
+                margin-bottom: 1rem;
+            }
+
+            .title h1 {
+                font-size: 2rem;
+            }
+
+            .container {
+                padding: 1rem;
+            }
+
+            .intro-section, .pillars-section, .access-section {
+                padding: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="./tet-logo.jpg" alt="Task Equity Tool Logo" class="logo">
+            <div class="title">
+                <h1>Task Equity Tool</h1>
+                <p class="subtitle">Objective Assessment of Task Difficulty</p>
+            </div>
+        </div>
+
+        <div class="intro-section">
+            <h2>Supporting Fair and Objective Task Evaluation</h2>
+            <p>The Task Equity Tool provides an evidence-based framework for measuring the true difficulty of various tasks, helping ensure fair treatment and appropriate support for all individuals.</p>
+            <p>This tool is designed to assist healthcare professionals, occupational therapists, disability services, workplace accommodations, and home adaptation specialists in making objective, scientific assessments.</p>
+        </div>
+
+        <div class="purpose-section">
+            <h3>Who Can Benefit</h3>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <h4>Healthcare Professionals</h4>
+                    <p>Occupational therapists, physiotherapists, and rehabilitation specialists can use objective data to develop personalized treatment plans and recommend appropriate accommodations.</p>
+                </div>
+                <div class="feature-card">
+                    <h4>Disability Services</h4>
+                    <p>Government agencies and disability support organizations can make fair, evidence-based decisions about service allocation and support needs.</p>
+                </div>
+                <div class="feature-card">
+                    <h4>Home Adaptation Specialists</h4>
+                    <p>Contractors and consultants specializing in accessible home modifications can prioritize improvements based on objective impact assessments.</p>
+                </div>
+                <div class="feature-card">
+                    <h4>Legal & Mediation Services</h4>
+                    <p>Family mediators, legal professionals, and expert witnesses can use objective data to support fair settlements and custody arrangements regarding household task distribution.</p>
+                </div>
+                <div class="feature-card">
+                    <h4>Insurance & Assessment</h4>
+                    <p>Insurance evaluators and disability assessors can make evidence-based decisions using standardized, objective measurements rather than subjective judgments.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="pillars-section">
+            <h3>Three-Pillar Assessment Framework</h3>
+            <div class="pillars-grid">
+                <div class="pillar-card">
+                    <div class="pillar-icon">🩹</div>
+                    <h4>Physical Discomfort Scale</h4>
+                    <p class="pillar-description">Measures pain levels, injury risk, and physical strain from 0-10, providing objective data on the physical demands of any task.</p>
+                </div>
+                <div class="pillar-card">
+                    <div class="pillar-icon">😴</div>
+                    <h4>Fatigue Assessment Scale</h4>
+                    <p class="pillar-description">Evaluates mental, emotional, and physical exhaustion levels, including stress factors and cognitive load requirements.</p>
+                </div>
+                <div class="pillar-card">
+                    <div class="pillar-icon">🔥</div>
+                    <h4>Energy Expenditure Scale</h4>
+                    <p class="pillar-description">Calculates true energy costs including environmental factors, tool availability, and time constraints that affect task completion.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="applications-section">
+            <h3>Applications</h3>
+            <div class="applications-list">
+                <div class="application-item">
+                    <h4>Rehabilitation Planning</h4>
+                    <p>Develop progressive therapy programs based on objective difficulty assessments</p>
+                </div>
+                <div class="application-item">
+                    <h4>Home Modifications</h4>
+                    <p>Prioritize accessibility improvements with the highest impact on daily living</p>
+                </div>
+                <div class="application-item">
+                    <h4>Service Allocation</h4>
+                    <p>Make fair decisions about support hours and assistance levels</p>
+                </div>
+                <div class="application-item">
+                    <h4>Workplace Equity</h4>
+                    <p>Ensure fair task distribution and appropriate accommodations</p>
+                </div>
+                <div class="application-item">
+                    <h4>Insurance Assessments</h4>
+                    <p>Provide objective data for disability and accommodation claims</p>
+                </div>
+                <div class="application-item">
+                    <h4>Family Mediation</h4>
+                    <p>Provide objective data for fair distribution of household responsibilities</p>
+                </div>
+                <div class="application-item">
+                    <h4>Legal Proceedings</h4>
+                    <p>Support expert testimony with standardized task difficulty measurements</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="access-section">
+            <h3>Get Started</h3>
+            <p>The Task Equity Tool calculator is currently in development. When available, it will offer both free access for individual use and professional versions for organizations.</p>
+            <a href="#" class="coming-soon">Notify Me When Available</a>
+        </div>
+
+        <div class="footer">
+            <p>&copy; 2025 Task Equity Tool. Developed by France Lamontagne. All rights reserved.</p>
+            <p>For more information about the methodology, please refer to our technical documentation.</p>
+        </div>
+    </div>
+</body>
+</html>
